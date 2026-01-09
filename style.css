@@ -47,7 +47,8 @@ nav a:hover {
 }
 
 #bannner {
-    background: url('./assets/hero-bg.png');
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)) ;
+    background-image: url('./assets/hero-bg.png');
     background-size: cover;
     background-position: center;
     padding: 100px 60px;
